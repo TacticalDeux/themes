@@ -85,10 +85,10 @@
       "author": "MisterPotato19",
       "repo": "https://github.com/TacticalDeux/system24",
       "path": "",
-      "commit": "22b4664f61bab949437fe8704fe74f877091b186",
-      "sha256": "b9e8843d22b82cca847c2a084e9925d26db7e1fff855bcd8760062ebf7968bfa",
+      "commit": "d8a26123106458949c4d347a28d50b684374ebe0",
+      "sha256": "afee2b42eef2d29c344be395d8e5ad6b44b8a3aa5085244f71be92e793f2cff1",
       "description": "system24: square-panel TUI theme with labels and DM Mono.",
-      "preview": "https://raw.githubusercontent.com/TacticalDeux/system24/22b4664f61bab949437fe8704fe74f877091b186/previews/chat.webp",
+      "preview": "https://raw.githubusercontent.com/TacticalDeux/system24/d8a26123106458949c4d347a28d50b684374ebe0/previews/chat.webp",
       "light": true,
       "dark": true
     }
